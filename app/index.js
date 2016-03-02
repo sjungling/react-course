@@ -4,7 +4,8 @@ HelloWorld = React.createClass({
   render: () => {
     return (
       <div>
-        Hello World!
+        <div>Hello React JS Program!</div>
+        <div>Oh, hai!</div>
       </div>
     )
   }
