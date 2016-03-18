@@ -16,6 +16,7 @@
     "react-router": "^2.0.0"
   },
   "devDependencies": {
+    "axios": "^0.9.1",
     "babel-core": "^6.6.0",
     "babel-loader": "^6.2.4",
     "babel-preset-react": "^6.5.0",
